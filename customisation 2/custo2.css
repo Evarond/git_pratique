@@ -1,0 +1,26 @@
+.squareblack{
+    background-color: black;
+    display: inline-block;
+    padding: 100px;
+    margin-left: 45%;
+}
+.circle1{
+    background-color: #00f900;
+    padding: 20px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.circle2{
+    background-color: black;
+    padding: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    border: 5px solid #00f900;
+}
+.circle3{
+    background-color:black;
+    padding: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    border: 2px solid #066203;
+}
